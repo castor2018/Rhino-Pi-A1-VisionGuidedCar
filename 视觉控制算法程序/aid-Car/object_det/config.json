@@ -1,0 +1,11 @@
+{
+  "id":8,
+  "name": "实体检测和追踪",
+  "en_name": "Object Detection and Tracking",
+  "desc": "在单个程序中实时检测和跟踪视频中的对象，并支持aidbot、openbot的玩具小车的控制（通过usb把小车和手机相连接）",
+  "en_desc": "Detect and track objects in video in real time in a single program, and support the control of aidbot, openbot toy cars (connect the car and mobile phone through usb)",
+  "pkg": "example-object-det",
+  "img": "/opt/aidlux/app/aid-examples/object_det/cover.png",
+  "url": "/opt/aidlux/app/aid-examples/object_det/run_object_det.py",
+  "hidden": false
+}

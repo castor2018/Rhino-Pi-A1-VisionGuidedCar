@@ -1,0 +1,3 @@
+../Core/Src/drv_usart2_poll.c:39:6:uart_print	1
+../Core/Src/drv_usart2_poll.c:48:6:HAL_UART_RxCpltCallback	9
+../Core/Src/drv_usart2_poll.c:106:6:USART2_Poll_Parse	2

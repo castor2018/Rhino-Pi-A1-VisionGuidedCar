@@ -1,0 +1,11 @@
+{
+  "id":13,
+  "name": "车牌识别",
+  "en_name": "Vehicle License Plate Recognitio",
+  "desc": "基于AidLux的车牌识别，用于识别车牌的位置以及车牌号",
+  "en_desc": "License plate recognition based on AidLux, used to identify the location of the license plate as well as the license plate number",
+  "pkg": "example-plate-spot",
+  "img": "/opt/aidlux/app/aid-examples/plate_spot/cover.png",
+  "url": "/opt/aidlux/app/aid-examples/plate_spot/run_plate_spot.py",
+  "hidden": false
+}

@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "name": "身体交换",
+    "en_name": "Body Swap",
+    "desc": "超好玩的身体交换算法，把你的脸融合到别人的身体上，看看衣服是否合身✨？",
+    "en_desc": "Super fun body swap algorithm, fuse your face to someone else's body to see if the clothes fit ✨?",
+    "pkg": "example-body-swap",
+    "img": "/opt/aidlux/app/aid-examples/cover-imgs/body-swap.png",
+    "url": "/opt/aidlux/app/aid-examples/body_swap/run_body_swap.py",
+    "hidden": false
+  },
+  {
+    "id": 2,
+    "name": "物品分类",
+    "en_name": "Classify items",
+    "desc": "对物品进行分类",
+    "en_desc": "Classify items",
+    "pkg": "example-classify",
+    "img": "/opt/aidlux/app/aid-examples/cover-imgs/classify.png",
+    "url": "/opt/aidlux/app/aid-examples/classify/run_classify.py",
+    "hidden": false
+  },
+  {
+    "id": 3,
+    "name": "分类识别",
+    "en_name": "Classify Detection",
+    "desc": "对小动物进行识别和分类",
+    "en_desc": "Detection and classify small animals",
+    "pkg": "example-classify-det",
+    "img": "/opt/aidlux/app/aid-examples/cover-imgs/classify-det.png",
+    "url": "/opt/aidlux/app/aid-examples/classify_det/run_classify_det.py",
+    "hidden": false
+  },
+  {
+    "id": 4,
+    "name": "人脸检测",
+    "en_name": "Face Mesh",
+    "desc": "468个人脸部关键点精准定位并支持多个人同时检测，支持关键点3D坐标。",
+    "en_desc": "Accurate positioning of 468 face key points and support for simultaneous detection of multiple people and 3D coordinates of key points.",
+    "pkg": "example-face-det",
+    "img": "/opt/aidlux/app/aid-examples/cover-imgs/face-det.gif",
+    "url": "/opt/aidlux/app/aid-examples/face_det/run_face_det.py",
+    "hidden": false
+  },
+  {
+    "id": 5,
+    "name": "AI换脸",
+    "en_name": "Face Swap",
+    "desc": "超好玩的换脸算法，把明星的脸融合到你的身体上，让你也有星范✨",
+    "en_desc": "The super fun face-changing algorithm, which integrates the star's face into your body, makes you also a star ✨",
+    "pkg": "example-face-swap",
+    "img": "/opt/aidlux/app/aid-examples/cover-imgs/face-swap.png",
+    "url": "/opt/aidlux/app/aid-examples/face_swap/run_face_swap.py",
+    "hidden": false
+  },
+  {
+    "id": 6,
+    "name": "人脸追踪",
+    "en_name": "Face Detection",
+    "desc": "具有6个人脸关键点定位和多张脸同时检测的超轻型面部检测器",
+    "en_desc": "Ultra-light face detector with 6 face keypoint localization and simultaneous detection of multiple faces",
+    "pkg": "example-face-track",
+    "img": "/opt/aidlux/app/aid-examples/cover-imgs/face-track.gif",
+    "url": "/opt/aidlux/app/aid-examples/face_track/run_face_track.py",
+    "hidden": false
+  },
+  {
+    "id": 7,
+    "name": "实时头发检测",
+    "en_name": "Hair Segmentation",
+    "desc": "超逼真的实时头发分割，并渲染头发为别的色彩，细节到每个发丝。",
+    "en_desc": "Ultra-realistic real-time hair segmentation and rendering of hair as other colors, detail down to each strand.",
+    "pkg": "example-hair-seg",
+    "img": "/opt/aidlux/app/aid-examples/cover-imgs/hair-seg.gif",
+    "url": "/opt/aidlux/app/aid-examples/hair_seg/run_hair_seg.py",
+    "hidden": false
+  },
+  {
+    "id": 8,
+    "name": "手部姿势跟踪",
+    "en_name": "Hand Tracking",
+    "desc": "基于高性能手掌检测和手部关节关键点定位，模型能得到3D的21个关键点，支持双手同时检测。",
+    "en_desc": "Based on high-performance palm detection and hand joint key point positioning, the model can obtain 21 key points in 3D, supporting simultaneous detection of both hands.",
+    "pkg": "example-hand-track",
+    "img": "/opt/aidlux/app/aid-examples/cover-imgs/hand-track.gif",
+    "url": "/opt/aidlux/app/aid-examples/hand_track/run_hand_track.py",
+    "hidden": false
+  },
+  {
+    "id": 9,
+    "name": "实体检测和追踪",
+    "en_name": "Object Detection and Tracking",
+    "desc": "在单个程序中实时检测和跟踪视频中的对象，并支持aidbot、openbot的玩具小车的控制（通过usb把小车和手机相连接）",
+    "en_desc": "Detect and track objects in video in real time in a single program, and support the control of aidbot, openbot toy cars (connect the car and mobile phone through usb)",
+    "pkg": "example-object-det",
+    "img": "/opt/aidlux/app/aid-examples/cover-imgs/object-det.png",
+    "url": "/opt/aidlux/app/aid-examples/object_det/run_object_det.py",
+    "hidden": false
+  },
+  {
+    "id": 10,
+    "name": "3D对象追踪",
+    "en_name": "3D Object Detection",
+    "desc": "对椅子等日常物品的检测和3D姿势估计",
+    "en_desc": "Detection and 3D pose estimation of everyday objects such as chairs",
+    "pkg": "example-object-track",
+    "img": "/opt/aidlux/app/aid-examples/cover-imgs/object-track.gif",
+    "url": "/opt/aidlux/app/aid-examples/object_track/run_object_track.py",
+    "hidden": false
+  },
+  {
+    "id": 11,
+    "name": "实时人体抠图",
+    "en_name": "Person Segmentation",
+    "desc": "超好玩的实时人体抠图分割，把你的人体抠图融合到新的背景上，让你穿越旅行✈️",
+    "en_desc": "Super fun real-time body cutout segmentation, integrate your body cutout into a new background, allowing you to travel through✈️",
+    "pkg": "example-person-seg",
+    "img": "/opt/aidlux/app/aid-examples/cover-imgs/person-seg.gif",
+    "url": "/opt/aidlux/app/aid-examples/person_seg/run_person_seg.py",
+    "hidden": false
+  },
+  {
+    "id": 12,
+    "name": "车牌识别",
+    "en_name": "Vehicle License Plate Recognitio",
+    "desc": "基于AidLux的车牌识别，用于识别车牌的位置以及车牌号",
+    "en_desc": "License plate recognition based on AidLux, used to identify the location of the license plate as well as the license plate number",
+    "pkg": "example-plate-spot",
+    "img": "/opt/aidlux/app/aid-examples/cover-imgs/plate-spot.png",
+    "url": "/opt/aidlux/app/aid-examples/plate_spot/run_plate_spot.py",
+    "hidden": false
+  },
+  {
+    "id": 13,
+    "name": "人像分割",
+    "en_name": "Portrait Segmentation",
+    "desc": "识别图像中的人体轮廓",
+    "en_desc": "Detection human outlines in images",
+    "pkg": "example-portrait-seg",
+    "img": "/opt/aidlux/app/aid-examples/cover-imgs/portrait-seg.png",
+    "url": "/opt/aidlux/app/aid-examples/portrait_seg/run_portrait_seg.py",
+    "hidden": false
+  },
+  {
+    "id": 14,
+    "name": "人体姿势检测和跟踪",
+    "en_name": "Human Pose Detection and Tracking",
+    "desc": "高保真人体姿势跟踪，可从RGB视频帧中推断出至少25个3D身体姿态关键点。",
+    "en_desc": "High-fidelity human pose tracking to infer at least 25 3D body pose keypoints from RGB video frames.",
+    "pkg": "example-pose-detect-track",
+    "img": "/opt/aidlux/app/aid-examples/cover-imgs/pose-detect-track.gif",
+    "url": "/opt/aidlux/app/aid-examples/pose_detect_track/run_pose_detect_track.py",
+    "hidden": false
+  }
+]
